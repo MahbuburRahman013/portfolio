@@ -131,7 +131,7 @@ const experiences = [
     icon: "https://i.ibb.co.com/XtNkjRR/Global-Door-It.jpg",
     iconBg: "#333333",
     date: "Jul 2022 - Dec 2022 · 6 mos",
-    link: "https://www.linkedin.com/company/across-the-globe-atg-/",
+    link: "https://www.facebook.com/profile.php?id=100088265059952",
   },
   {
     title: "Next Level Web Development",
